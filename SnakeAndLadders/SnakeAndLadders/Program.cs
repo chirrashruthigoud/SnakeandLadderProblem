@@ -11,7 +11,7 @@ namespace SnakeAndLadders
         public static void Main(string[] args)
         {
             SnakeLadderClass name=new SnakeLadderClass();
-            name.SinglePlayer();
+            name.LadderMethod();
             Console.ReadLine();
         }
     }
